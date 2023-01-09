@@ -1,0 +1,104 @@
+---
+title: "Noah Lee's resume"
+author: Noah Lee
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> nlee3@oxy.edu
+- <i class="fa fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/noah-lee-a09a3a1b6/)
+- <i class="fa fa-phone"></i> +1 650-619-7407
+- For more information, please contact me via email.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Understanding and proficiency of platforms for effective data analyses including: SQL, Sheets, Excel, Tableau. Strong communication, problem-solving, and analytical skills.
+
+- Knowledge in R, Python, SQL, Java
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Noah Lee {#title}
+--------------------------------------------------------------------------------
+
+### Currently searching for an entry-level/student position in the Data/analytics field
+
+A Sophomore at Occidental College studying Computer Science and Mathematics, in search of a summer position that challenges me to grow in my skills in programming and data analysis. Interested in learning about job opportunities in computer science and the applications of programming, especially in analytics.
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+### Occidental College
+
+Sophomore, Computer Science Major
+
+Los Angeles, CA
+
+August, 2021 - present
+
+### Coursera (Google Curriculum)
+
+Google Data Analytics Professional Certificate
+
+August, 2022 - January, 2023
+
+
+Professional Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Assistant Director/Program Coordinator Intern
+
+Squash on Track
+
+Redwood City, CA
+
+June 2022 - August 2022
+
+Supervisor: Alana Poole - <alanapoole97@gmail.com>
+
+- Worked directly with the Program Director to provide a memorable summer camp experience with Squash on Track. Squash on Track is a non-profit that uses the sport of squash to reach out to low-income students in order to provide assistance with academics and encourage community outreach.
+- Was the point-person for high-school counselors for any issues or questions regarding students, curriculum, etc.
+- Skills learned include: Delegating, Decision-making, and Problem-solving.
+
+
+### Sales Associate
+
+Uniqlo USA
+
+San Mateo, CA
+
+November, 2020 - January 2022
+
+Supervisor: Linda Chen - +1(415)876-8412
+
+- Carried out tasks specified by supervisors including restocking front-of-house inventory and managing back-of-house inventory.
+- Skills learned include: Customer service, Communication with managers and coworkers, Inventory management, Time management.
+
